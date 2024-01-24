@@ -36,6 +36,7 @@
     <link rel="stylesheet" href="{{asset('assets/css/style copy.css')}}">
     <link href="{{asset('assets/lib/animate/animate.min.css')}}" rel="stylesheet">
     <link href="{{asset('assets/lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
+    <meta name="google-site-verification" content="hPB2DwTwFRFeXFFbf4HnjAbeWMAcAlPnzXbi9nMy8no" />
 
 </head>
 
